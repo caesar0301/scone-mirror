@@ -1,0 +1,18 @@
+[submodule "scone-server"]
+	path = scone-server
+	url = https://github.com/UCLM-ARCO/scone-server.git
+[submodule "scone-wrapper"]
+	path = scone-wrapper
+	url = https://github.com/UCLM-ARCO/scone-wrapper.git
+[submodule "scone-client"]
+	path = scone-client
+	url = https://github.com/UCLM-ARCO/scone-client.git
+[submodule "scone-ice"]
+	path = scone-ice
+	url = https://github.com/UCLM-ARCO/scone-ice.git
+[submodule "scone"]
+	path = scone
+	url = https://github.com/UCLM-ARCO/scone.git
+[submodule "docker.scone-server"]
+	path = docker.scone-server
+	url = https://github.com/UCLM-ARCO/docker.scone-server.git
